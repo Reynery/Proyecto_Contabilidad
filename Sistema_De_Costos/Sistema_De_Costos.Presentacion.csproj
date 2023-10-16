@@ -79,5 +79,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Sistema_De_Costos.Entidades\Sistema_De_Costos.Entidades.csproj">
+      <Project>{1e432c7c-a0c7-422e-bf37-32cf6179b158}</Project>
+      <Name>Sistema_De_Costos.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sistema_De_Costos.Negocio\Sistema_De_Costos.Negocio.csproj">
+      <Project>{b3a5837a-7fae-4ef8-bf1b-06feda9190e0}</Project>
+      <Name>Sistema_De_Costos.Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
