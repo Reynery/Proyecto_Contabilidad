@@ -14,6 +14,7 @@ namespace Sistema_De_Costos
         #region "Mis Métodos"
         private void Formato_ca()
         {
+            //Se le da un formato para poder enlistar la información
             dataGridView_Principal.Columns[0].Width = 100;
             dataGridView_Principal.Columns[0].HeaderText = "CODIGO_CA";
             dataGridView_Principal.Columns[1].Width = 300;
