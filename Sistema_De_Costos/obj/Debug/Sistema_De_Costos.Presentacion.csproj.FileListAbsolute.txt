@@ -8,3 +8,20 @@ E:\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.exe
 E:\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.pdb
 E:\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.exe
 E:\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.pdb
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.Presentacion.csproj.AssemblyReference.cache
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.Form_Categorias.resources
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.Properties.Resources.resources
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.Presentacion.csproj.GenerateResource.cache
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.Presentacion.csproj.CoreCompileInputs.cache
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.exe
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.pdb
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.exe.config
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.exe
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.pdb
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.Entidades.dll
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.Negocio.dll
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.Datos.dll
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.Entidades.pdb
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.Negocio.pdb
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.Datos.pdb
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.Presentacion.csproj.CopyComplete

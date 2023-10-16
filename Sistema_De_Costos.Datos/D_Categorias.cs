@@ -24,11 +24,11 @@ namespace Sistema_De_Costos.Datos
                 SqlCommand Comando = new SqlCommand("USP_Listado_ca", SQLCon);
                 Comando.CommandType = CommandType.StoredProcedure;
                 Comando.Parameters.Add("@cTexto", SqlDbType.VarChar).Value = cTexto;
-                SqlCon.Open();
+                SQLCon.Open();
                 Resultado = Comando.ExecuteReader();
                 Tabla.Load(Resultado);
                 return Tabla;
-            }
+            
             }
              catch (Exception ex) 
             {

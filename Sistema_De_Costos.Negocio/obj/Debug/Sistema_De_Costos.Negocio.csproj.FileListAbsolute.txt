@@ -1,2 +1,13 @@
 E:\Sistema_De_Costos\Sistema_De_Costos.Negocio\obj\Debug\Sistema_De_Costos.Negocio.csproj.AssemblyReference.cache
 E:\Sistema_De_Costos\Sistema_De_Costos.Negocio\obj\Debug\Sistema_De_Costos.Negocio.csproj.CoreCompileInputs.cache
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos.Negocio\obj\Debug\Sistema_De_Costos.Negocio.csproj.AssemblyReference.cache
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos.Negocio\obj\Debug\Sistema_De_Costos.Negocio.csproj.CoreCompileInputs.cache
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos.Negocio\bin\Debug\Sistema_De_Costos.Negocio.dll
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos.Negocio\bin\Debug\Sistema_De_Costos.Negocio.pdb
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos.Negocio\bin\Debug\Sistema_De_Costos.Datos.dll
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos.Negocio\bin\Debug\Sistema_De_Costos.Entidades.dll
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos.Negocio\bin\Debug\Sistema_De_Costos.Datos.pdb
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos.Negocio\bin\Debug\Sistema_De_Costos.Entidades.pdb
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos.Negocio\obj\Debug\Sistema_De_Costos.Negocio.csproj.CopyComplete
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos.Negocio\obj\Debug\Sistema_De_Costos.Negocio.dll
+E:\B A C K U P\Sistema_De_Costos\Sistema_De_Costos.Negocio\obj\Debug\Sistema_De_Costos.Negocio.pdb

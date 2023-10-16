@@ -40,7 +40,7 @@ namespace Sistema_De_Costos.Datos
                 }
                 else
                 {
-                    Cadena.ConnectionString=Cadena.ConnectionString+"User Id="+this.Usuario+"; Password="this.Clave; //Forma de autenticación de SQL Server
+                    Cadena.ConnectionString = Cadena.ConnectionString + "User Id=" + this.Usuario + "; Password=" + this.Clave; //Forma de autenticación de SQL Server
                 }
             }
             catch (Exception ex)
