@@ -1,0 +1,10 @@
+E:\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.Presentacion.csproj.AssemblyReference.cache
+E:\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.Form_Categorias.resources
+E:\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.Properties.Resources.resources
+E:\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.Presentacion.csproj.GenerateResource.cache
+E:\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.Presentacion.csproj.CoreCompileInputs.cache
+E:\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.exe.config
+E:\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.exe
+E:\Sistema_De_Costos\Sistema_De_Costos\bin\Debug\Sistema_De_Costos.pdb
+E:\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.exe
+E:\Sistema_De_Costos\Sistema_De_Costos\obj\Debug\Sistema_De_Costos.pdb

@@ -1,0 +1,6 @@
+E:\Sistema_De_Costos\Sistema_De_Costos.Entidades\bin\Debug\Sistema_De_Costos.Entidades.dll
+E:\Sistema_De_Costos\Sistema_De_Costos.Entidades\bin\Debug\Sistema_De_Costos.Entidades.pdb
+E:\Sistema_De_Costos\Sistema_De_Costos.Entidades\obj\Debug\Sistema_De_Costos.Entidades.csproj.AssemblyReference.cache
+E:\Sistema_De_Costos\Sistema_De_Costos.Entidades\obj\Debug\Sistema_De_Costos.Entidades.csproj.CoreCompileInputs.cache
+E:\Sistema_De_Costos\Sistema_De_Costos.Entidades\obj\Debug\Sistema_De_Costos.Entidades.dll
+E:\Sistema_De_Costos\Sistema_De_Costos.Entidades\obj\Debug\Sistema_De_Costos.Entidades.pdb

@@ -1,0 +1,2 @@
+E:\Sistema_De_Costos\Sistema_De_Costos.Datos\obj\Debug\Sistema_De_Costos.Datos.csproj.AssemblyReference.cache
+E:\Sistema_De_Costos\Sistema_De_Costos.Datos\obj\Debug\Sistema_De_Costos.Datos.csproj.CoreCompileInputs.cache
