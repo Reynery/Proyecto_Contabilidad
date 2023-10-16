@@ -15,7 +15,7 @@ namespace Sistema_De_Costos
         private void Formato_ca()
         {
             dataGridView_Principal.Columns[0].Width = 100;
-            dataGridView_Principal.Columns[0].HeaderText = "codigo_ca";
+            dataGridView_Principal.Columns[0].HeaderText = "CODIGO_CA";
             dataGridView_Principal.Columns[1].Width = 300;
             dataGridView_Principal.Columns[1].HeaderText = "CATEGORIA";
         }
@@ -25,6 +25,7 @@ namespace Sistema_De_Costos
             try
             {
                 dataGridView_Principal.DataSource = N_Categorias.Listado_ca(cTexto);
+                this.Formato_ca();
             }
             catch (Exception ex)
             {
